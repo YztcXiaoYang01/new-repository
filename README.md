@@ -6,6 +6,7 @@ test new repository
 
 #A 操作
 
+<<<<<<< HEAD
 #B 操作
 
 
@@ -13,3 +14,6 @@ test new repository
 
 
 #D 到此一游
+=======
+#B 操作
+>>>>>>> parent of 51a6fb6... [C]提交
