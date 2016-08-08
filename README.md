@@ -7,6 +7,3 @@ test new repository
 #A 操作
 
 #B 操作
-
-
-#C 操作
